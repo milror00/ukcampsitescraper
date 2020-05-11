@@ -1,0 +1,8 @@
+scrapy== 2.1.0
+poetry== 1.0.5
+flake8== 3.7.9
+black== 19.10b0
+pre-commit== 2.3.0
+mysql==0.0.2
+mysqlclient==1.4.6
+mysql-connector==2.2.9

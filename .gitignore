@@ -1,0 +1,6 @@
+/.idea/
+/poetry.lock
+/.vagrant/
+/scrapy.log
+/data_export.json
+/scrapy.log
